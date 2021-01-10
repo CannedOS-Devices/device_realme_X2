@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/octavi_X2.mk
+    $(LOCAL_DIR)/canned_X2.mk
