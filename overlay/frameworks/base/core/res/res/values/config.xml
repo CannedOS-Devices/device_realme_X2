@@ -1184,6 +1184,6 @@
     <bool name="config_audioPanelOnLeftSide">true</bool>
 
      <!-- Shows the required view for in-display fingerprint -->
-    <bool name="config_supportsInDisplayFingerprint">true</bool>
+    <bool name="config_needCustomFODView">false</bool>
 
 </resources>
